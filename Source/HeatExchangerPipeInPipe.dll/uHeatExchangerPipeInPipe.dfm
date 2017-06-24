@@ -1,0 +1,50 @@
+object HeatExchangerPipeInPipeForm: THeatExchangerPipeInPipeForm
+  Left = 0
+  Top = 0
+  Caption = 'HeatExchangerPipeInPipeForm'
+  ClientHeight = 666
+  ClientWidth = 1174
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnCreate = FormCreate
+  OnResize = FormResize
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  inline frmHeatExchangerPipeInPipe: TfrmHeatExchangerPipeInPipe
+    Left = 240
+    Top = 64
+    Width = 505
+    Height = 441
+    Color = clWhite
+    ParentBackground = False
+    ParentColor = False
+    TabOrder = 0
+    OnMouseMove = frmHeatExchangerPipeInPipeMouseMove
+    ExplicitLeft = 240
+    ExplicitTop = 64
+    ExplicitWidth = 505
+    ExplicitHeight = 441
+  end
+  object Button1: TButton
+    Left = 24
+    Top = 104
+    Width = 75
+    Height = 25
+    Caption = #1055#1088#1103#1084#1086#1090#1086#1082
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object tmrOpenGLPaint: TTimer
+    Interval = 100
+    OnTimer = tmrOpenGLPaintTimer
+    Left = 40
+    Top = 32
+  end
+end

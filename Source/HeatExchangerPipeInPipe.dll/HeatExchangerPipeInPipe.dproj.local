@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.04.30 13:02:40.072.dproj,C:\Documents and Settings\BolkodaB\Мои документы\RAD Studio\Projects\Project1.dproj=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\HeatExchangerPipeInPipe.dproj</Transaction>
+    <Transaction>2010.04.30 13:03:27.728.pas,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\uHeatExchangerPipeInPipe.pas</Transaction>
+    <Transaction>2010.04.30 13:03:27.728.dfm,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\uHeatExchangerPipeInPipe.dfm</Transaction>
+    <Transaction>2010.04.30 13:03:31.009.dproj,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\HeatExchangerPipeInPipe.dproj=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\HeatExchangerPipeInPipe.dproj</Transaction>
+    <Transaction>2010.04.30 13:05:09.291.pas,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\ufrmHeatExchangerPipeInPipe.pas</Transaction>
+    <Transaction>2010.04.30 13:05:09.291.dfm,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\ufrmHeatExchangerPipeInPipe.dfm</Transaction>
+    <Transaction>2010.04.30 13:05:11.509.dproj,E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\HeatExchangerPipeInPipe.dproj=E:\Projects\Degree Work\Source\HeatExchangerPipeInPipe.dll\HeatExchangerPipeInPipe.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

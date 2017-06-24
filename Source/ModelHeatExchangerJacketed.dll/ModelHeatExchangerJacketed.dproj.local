@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.03.01 18:30:53.781.dproj,C:\Documents and Settings\BolkodaB\Мои документы\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\BolkodaB\Рабочий стол\Новая папка (2)\ModelHeatExchanger.dproj</Transaction>
+    <Transaction>2010.03.01 18:34:32.062.dproj,C:\Documents and Settings\BolkodaB\Рабочий стол\Новая папка (2)\ModelHeatExchanger.dproj=C:\Documents and Settings\BolkodaB\Рабочий стол\Новая папка (2)\ModelHeatExchangerJacketed.dproj</Transaction>
+    <Transaction>2010.03.03 18:14:00.796.dproj,C:\Documents and Settings\BolkodaB\Рабочий стол\Новая папка (2)\ModelHeatExchangerJacketed.dproj=E:\Projects\Degree Work\Source\ModelHeatExchangerJacketed.dll\ModelHeatExchangerJacketed.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

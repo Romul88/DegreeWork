@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.03.04 16:38:18.556.dproj,C:\Documents and Settings\BolkodaB\Мои документы\RAD Studio\Projects\Project1.dproj=E:\Projects\Degree Work\Source\GraphicElements.dll\GraphicElements.dproj</Transaction>
+    <Transaction>2010.03.04 17:53:29.088.dproj,E:\Projects\Degree Work\Source\GraphicElements.dll\GraphicElements.dproj=E:\Projects\Degree Work\Source\GraphicElements.dll\GraphicElements.dproj</Transaction>
+    <Transaction>2010.03.04 18:06:26.306.dproj,E:\Projects\Degree Work\Source\GraphicElements.dll\GraphicElements.dproj=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj</Transaction>
+    <Transaction>2010.03.04 18:08:21.556.pas,E:\Projects\Degree Work\Source\GraphicElements.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\uHeatExchangerJacketed.pas</Transaction>
+    <Transaction>2010.03.04 18:08:21.556.dfm,E:\Projects\Degree Work\Source\GraphicElements.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\uHeatExchangerJacketed.dfm</Transaction>
+    <Transaction>2010.03.04 18:10:14.494.pas,E:\Projects\Degree Work\Source\GraphicElements.dll\Unit2.pas=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\ufmHeatExchangerJacketed.pas</Transaction>
+    <Transaction>2010.03.04 18:10:14.494.dfm,E:\Projects\Degree Work\Source\GraphicElements.dll\Unit2.dfm=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\ufmHeatExchangerJacketed.dfm</Transaction>
+    <Transaction>2010.05.09 13:01:09.312.pas,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\uHeatExchangerJacketedGraphics.pas</Transaction>
+    <Transaction>2010.05.09 13:01:09.312.dfm,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\uHeatExchangerJacketedGraphics.dfm</Transaction>
+    <Transaction>2010.05.09 13:01:14.984.dproj,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj</Transaction>
+    <Transaction>2010.05.09 13:32:43.203.pas,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\ufmHeatExchangerJacketedGraphics.pas</Transaction>
+    <Transaction>2010.05.09 13:32:43.203.dfm,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\ufmHeatExchangerJacketedGraphics.dfm</Transaction>
+    <Transaction>2010.05.09 13:32:45.765.dproj,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj</Transaction>
+    <Transaction>2010.05.09 13:34:21.515.dproj,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj</Transaction>
+    <Transaction>2010.05.23 15:34:18.237.dproj,E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj=E:\Projects\Degree Work\Source\HeatExchangerJacketed.dll\HeatExchangerJacketed.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

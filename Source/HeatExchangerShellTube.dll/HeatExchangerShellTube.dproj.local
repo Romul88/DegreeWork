@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.04.18 11:12:24.296.dproj,C:\Documents and Settings\BolkodaB\Мои документы\RAD Studio\Projects\Project1.dproj=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\HeatExchangerShellTube.dproj</Transaction>
+    <Transaction>2010.04.18 11:12:54.625.pas,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\uHeatExchangerShellTube.pas</Transaction>
+    <Transaction>2010.04.18 11:12:54.625.dfm,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\uHeatExchangerShellTube.dfm</Transaction>
+    <Transaction>2010.04.18 11:13:09.296.dproj,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\HeatExchangerShellTube.dproj=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\HeatExchangerShellTube.dproj</Transaction>
+    <Transaction>2010.04.18 11:30:20.625.pas,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\Unit1.pas=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\ufmHeatExchangerShellTube.pas</Transaction>
+    <Transaction>2010.04.18 11:30:20.625.dfm,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\Unit1.dfm=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\ufmHeatExchangerShellTube.dfm</Transaction>
+    <Transaction>2010.04.18 11:30:24.875.dproj,E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\HeatExchangerShellTube.dproj=E:\Projects\Degree Work\Source\HeatExchangerShellTube.dll\HeatExchangerShellTube.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
